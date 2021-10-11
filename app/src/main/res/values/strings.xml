@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Parimatch</string>
+    <string name="no_internet">Internet is gone, please wait for it with us…</string>
+</resources>

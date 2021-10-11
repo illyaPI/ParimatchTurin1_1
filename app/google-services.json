@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356197539668",
+    "project_id": "comfaparimatmachcom",
+    "storage_bucket": "comfaparimatmachcom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356197539668:android:199a43a5151003d80372c1",
+        "android_client_info": {
+          "package_name": "com.faparimat.mach.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356197539668-aacsbr92idoat7506ev830c05fm1oref.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5fil-DAqwglPcy8-n0YBUS66K7E8ZexA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356197539668-aacsbr92idoat7506ev830c05fm1oref.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
